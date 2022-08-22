@@ -1,0 +1,34 @@
+.btn-primary{
+  background-color: #FFAE00;
+  border-color:  #FFAE00;
+}
+
+.btn-primary:hover{
+  background-color: rgb(226, 119, 43);
+  border-color: rgb(226, 119, 43);
+}
+
+.drop-shadow{
+  filter: drop-shadow(7px 0px 4px #fffb0056);
+}
+
+.no-select{
+  user-select: none;
+}
+
+.bg-primary{
+  background-color: #ffc107c8 !important;
+}
+
+.dropdown-item:active, .dropdown-item:hover{
+  background-color: #ffc107c8 !important;
+}
+
+tbody > tr:hover > * {
+  background-color: #ffff !important;
+  color: black !important;
+}
+
+.item > input[type='checkbox']:checked  + div {
+  text-decoration:line-through;
+}
