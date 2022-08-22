@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var e=(r,n,t)=>n in r?a(r,n,{enumerable:!0,configurable:!0,writable:!0,value:t}):r[n]=t;var o=(r,n,t)=>(e(r,typeof n!="symbol"?n+"":n,t),t);import"./style.c0ed6924.js";class c{constructor(){o(this,"btnCadastar");this.configurarElemento()}configurarElemento(){}}new c;
